@@ -10,6 +10,6 @@
 Se conecte comigo no Linkedin: <a href="https://www.linkedin.com/in/matheus-da-silva-de-paula-448930176/" target="_blank">Matheus de Paula</a>
 ## TECHS
 
-* [ ] HTML
-* [ ] TailwindCSS
-* [ ] CSS
+* [ x ] HTML
+* [ x ] TailwindCSS
+* [ x ] CSS
